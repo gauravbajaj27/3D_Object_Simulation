@@ -206,7 +206,7 @@ Following are the instructions to perform linear transformations on the 3D Objec
 
 **i. "ESCAPE"- Exit** 
 
-####**Below is the screenshot of working of the application:**
+### **Below is the screenshot of working of the application:**
 
 Performing transformations on cube
 ![GIF-1](Images/cuboid_transformations.gif)
