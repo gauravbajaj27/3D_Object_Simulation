@@ -37,7 +37,7 @@ Open 3D_Object_Simulation.ipynb and select Kernel>Restart & Run All
 ## Features and working of the application
 Following are the instructions to perform linear transformations on the 3D Object:
 
-#### **1. Commands for transformation in cube:** 
+### **1. Commands for transformation in cube:** 
 
 **a. Rotation by rotation angle 1.0 degrees in respective directions**
 
@@ -93,7 +93,7 @@ Following are the instructions to perform linear transformations on the 3D Objec
 
 **i. "ESCAPE"- Exit**  
 
-#### **2. Commands for transformation in cuboid:** 
+### **2. Commands for transformation in cuboid:** 
 
 **a. Rotation by rotation angle 1.0 degrees in respective directions**
 
@@ -150,7 +150,7 @@ Following are the instructions to perform linear transformations on the 3D Objec
 **i. "ESCAPE"- Exit**
  
 
-#### **3. Commands for transformation in pyramid:**
+### **3. Commands for transformation in pyramid:**
 
 **a. Rotation by rotation angle 1.0 degree(Defualt) in respective directions**
     
@@ -206,7 +206,7 @@ Following are the instructions to perform linear transformations on the 3D Objec
 
 **i. "ESCAPE"- Exit** 
 
-#### **Below is the screenshot of working of the application: **
+####**Below is the screenshot of working of the application:**
 
 Performing transformations on cube
 ![GIF-1](Images/cuboid_transformations.gif)
