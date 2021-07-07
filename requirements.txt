@@ -1,0 +1,4 @@
+ipython
+pygame
+numpy
+opengl
