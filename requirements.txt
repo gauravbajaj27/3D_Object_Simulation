@@ -2,3 +2,4 @@ ipython
 pygame
 numpy
 opengl
+jupyter notebook
